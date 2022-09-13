@@ -1,0 +1,70 @@
+[I 11:04:25.397 NotebookApp] Serving notebooks from local directory: /allen/programs/celltypes/workgroups/ivscc/nathang/cell_cards_ephys/notebooks
+[I 11:04:25.397 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 11:04:25.397 NotebookApp] http://localhost:8896/
+[I 11:04:25.397 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 11:05:01.493 NotebookApp] 302 GET / (::1) 1.13ms
+[I 11:05:01.525 NotebookApp] 302 GET /tree? (::1) 1.92ms
+[I 11:05:07.313 NotebookApp] 302 POST /login?next=%2Ftree%3F (::1) 2.86ms
+[I 11:05:13.386 NotebookApp] Creating new notebook in 
+[I 11:05:19.763 NotebookApp] Kernel started: d091399a-0ca7-4f41-9949-66836d8db298, name: python3
+[I 11:07:18.980 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:09:18.897 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:11:18.865 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:13:18.806 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:15:24.855 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:17:20.321 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:19:30.194 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:21:21.332 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:23:19.473 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:25:19.897 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:27:20.164 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:29:19.715 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:31:20.530 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:33:20.305 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:35:19.547 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:37:18.746 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:39:19.432 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:41:20.103 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:43:18.896 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:45:18.806 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:47:18.928 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:49:22.342 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:51:20.230 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:53:18.941 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:55:18.951 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:57:18.915 NotebookApp] Saving file at /Untitled.ipynb
+[I 11:59:18.940 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:01:19.234 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:03:20.708 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:05:21.644 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:07:18.756 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:09:18.959 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:11:18.854 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:13:18.843 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:15:18.810 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:17:19.015 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:19:18.730 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:55:24.640 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:57:24.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:59:24.394 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:01:24.716 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:05:24.373 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:06:42.389 NotebookApp] Starting buffering for d091399a-0ca7-4f41-9949-66836d8db298:1a96879f52dd4e2194c0808074dd7b83
+[I 13:06:43.649 NotebookApp] Kernel restarted: d091399a-0ca7-4f41-9949-66836d8db298
+[I 13:06:43.735 NotebookApp] Restoring connection for d091399a-0ca7-4f41-9949-66836d8db298:1a96879f52dd4e2194c0808074dd7b83
+[I 13:06:43.735 NotebookApp] Replaying 3 buffered messages
+[I 13:07:24.529 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:09:06.992 NotebookApp] Starting buffering for d091399a-0ca7-4f41-9949-66836d8db298:1a96879f52dd4e2194c0808074dd7b83
+[I 13:09:07.754 NotebookApp] Kernel restarted: d091399a-0ca7-4f41-9949-66836d8db298
+[I 13:09:07.819 NotebookApp] Restoring connection for d091399a-0ca7-4f41-9949-66836d8db298:1a96879f52dd4e2194c0808074dd7b83
+[I 13:09:07.819 NotebookApp] Replaying 3 buffered messages
+[I 13:09:24.552 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:11:24.637 NotebookApp] Saving file at /Untitled.ipynb
+[W 10:09:37.820 NotebookApp] WebSocket ping timeout after 119946 ms.
+[I 10:09:42.832 NotebookApp] Starting buffering for d091399a-0ca7-4f41-9949-66836d8db298:1a96879f52dd4e2194c0808074dd7b83
+[I 09:19:28.706 NotebookApp] 302 GET / (::1) 0.94ms
+[I 09:19:57.843 NotebookApp] Starting buffering for d091399a-0ca7-4f41-9949-66836d8db298:9f72028eccfe4eb6bd5056482b583e3d
+[C 12:33:21.454 NotebookApp] received signal 15, stopping
+[I 12:33:21.553 NotebookApp] Shutting down 1 kernel
+[I 12:33:21.554 NotebookApp] Kernel shutdown: d091399a-0ca7-4f41-9949-66836d8db298
+[I 12:33:21.593 NotebookApp] Shutting down 0 terminals

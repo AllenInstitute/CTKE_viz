@@ -1,0 +1,117 @@
+cluster_label,cluster_size,class,subclass,cross-species cluster,DNAm_cluster_label,ATAC_cluster_label
+Astro Aqp4_Gfap,1700,Non-neuronal,Astro,Astro_1,Astro Rorb Prex2,Astro
+Astro Aqp4_Slc7a10,16131,Non-neuronal,Astro,Astro_2,Astro Rorb Prex2,Astro
+Pvalb Vipr2_1,9,GABAergic,Pvalb,Chandelier,Pvalb Vipr2,Pvalb Vipr2
+Pvalb Vipr2_2,151,GABAergic,Pvalb,Chandelier,Pvalb Vipr2,Pvalb Vipr2
+Endo,3134,Non-neuronal,Endo,Endo,NA,Endo
+L2/3 IT_1,1410,Glutamatergic,L2/3 IT,L2/3 IT,L2/3 IT Greb1l,L2/3_1
+L2/3 IT_2,2004,Glutamatergic,L2/3 IT,L2/3 IT,L2/3 IT Greb1l,L2/3_1
+L2/3 IT_3,18685,Glutamatergic,L2/3 IT,L2/3 IT,L2/3 IT Greb1l,L2/3_2
+L5 PT_1,2943,Glutamatergic,L5 ET,L5 ET_1,L5 ET,L5 ET
+L5 PT_3,343,Glutamatergic,L5 ET,L5 ET_1,L5 ET,L5 ET
+L5 PT_4,820,Glutamatergic,L5 ET,L5 ET_1,L5 ET,L5 ET
+L5 PT_2,414,Glutamatergic,L5 ET,L5 ET_2,L5 ET,L5 ET
+L4/5 IT_1,11871,Glutamatergic,L5 IT,L5 IT_1,L5 IT Rspo1_1,L4
+L4/5 IT_2,8232,Glutamatergic,L5 IT,L5 IT_1,L5 IT Rspo1_2,L5 IT_1
+L5 IT_3,1394,Glutamatergic,L5 IT,L5 IT_1,L5/6 IT Arhgap15,L5 IT_2
+L5 IT_1,7421,Glutamatergic,L5 IT,L5 IT_2,L5 IT S100b,L5 IT_2
+L5 IT_2,282,Glutamatergic,L5 IT,L5 IT_3,L5 IT S100b,L5 IT_2
+L5/6 NP CT,233,Glutamatergic,L5/6 NP,L5 IT_3,L5/6 NP CT Cdh18,L5/6 NP
+L5/6 NP_1,553,Glutamatergic,L5/6 NP,L5/6 NP,L5/6 NP Lypd1,L5/6 NP
+L5/6 NP_2,674,Glutamatergic,L5/6 NP,L5/6 NP,L5/6 NP Lypd1,L5/6 NP
+L5/6 NP_3,1940,Glutamatergic,L5/6 NP,L5/6 NP,L5/6 NP Lypd1,L5/6 NP
+L6b Kcnip1,93,Glutamatergic,L6b,L5/6 NP,L6b Ctgf,NA
+L6 CT Gpr139,108,Glutamatergic,L6 CT,L6 CT_1,L6 CT Gpr139,L6 CT
+L6 CT Grp,595,Glutamatergic,L6 CT,L6 CT_1,L6 CT Grp,L6 CT
+L6 CT Pou3f2,1966,Glutamatergic,L6 CT,L6 CT_1,L6 CT Pou3f2,L6 CT
+L6 CT Kit_1,175,Glutamatergic,L6 CT,L6 CT_1,L5/6 NP CT Cdh18,L6 CT
+L6 CT Kit_2,29,Glutamatergic,L6 CT,L6 CT_1,L5/6 NP CT Cdh18,L6 CT
+L6b Col6a1,449,Glutamatergic,L6b,L6 CT_1,L6b Ctgf,L6 CT
+L6 CT Cpa6,13388,Glutamatergic,L6 CT,L6 CT_2,L6 CT Cpa6,L6 CT
+L6 IT_1,1408,Glutamatergic,L6 IT,L6 IT_1,L5/6 IT Arhgap15,L6 IT
+L5 IT_4,4040,Glutamatergic,L5 IT,L6 IT_2,L5 IT Pld5_2,L6 IT
+L6 IT_2,2896,Glutamatergic,L6 IT,L6 IT_2,L6 IT_2,L6 IT
+L6 IT Car3,13,Glutamatergic,L6 IT Car3,L6 IT_3,L6 IT Car3,NA
+L6b Shisa6_1,256,Glutamatergic,L6b,L6b,L6b Ctgf,NA
+L6b Shisa6_2,502,Glutamatergic,L6b,L6b,L6b Ctgf,NA
+L6b Ror1,596,Glutamatergic,L6b,L6b,L6b Ctgf,NA
+Lamp5 Pdlim5_1,252,GABAergic,Lamp5,Lamp5_1,Lamp5 Ndnf,Lamp5 Ndnf
+Lamp5 Pdlim5_2,420,GABAergic,Lamp5,Lamp5_2,Lamp5 Ndnf,Lamp5 Arhgdib
+Lamp5 Slc35d3,1044,GABAergic,Lamp5,Lamp5_2,Lamp5 Asph,Lamp5 Slc35d3
+Lamp5 Lhx6,148,GABAergic,Lamp5,Lamp5_3,Lamp5 Asph,Lamp5 Lhx6
+Lamp5 Pax6,112,GABAergic,Lamp5,Lamp5_4,Lamp5 Chrna7,Lamp5 Ndnf
+Lamp5 Egln3_2,157,GABAergic,Lamp5,Lamp5_5,Lamp5 Chrna7,Lamp5 Ndnf
+Lamp5 Egln3_3,249,GABAergic,Lamp5,Lamp5_5,Lamp5 Ndnf,Lamp5 Ndnf
+Micro,7776,Non-neuronal,Micro-PVM,Microglia/PVM,Micro-PVM Inpp5d,Micro-PVM
+PVM_1,306,Non-neuronal,Micro-PVM,Microglia/PVM,NA,Micro-PVM
+PVM_2,26,Non-neuronal,Micro-PVM,Microglia/PVM,Micro-PVM Inpp5d,Micro-PVM
+PVM_3,21,Non-neuronal,Micro-PVM,Microglia/PVM,Micro-PVM Inpp5d,Micro-PVM
+Meis2,49,GABAergic,Meis2,NA,NA,NA
+Meis2_Top2a,47,GABAergic,Meis2,NA,NA,NA
+Astro_Top2a,81,Non-neuronal,Astro,NA,Astro Rorb Prex2,Astro
+Oligo Enpp6_1,117,Non-neuronal,Oligo,NA,Oligo Plp1,Oligo
+Oligo Enpp6_2,299,Non-neuronal,Oligo,NA,NA,Oligo
+Oligo Enpp6_3,68,Non-neuronal,Oligo,NA,Oligo Plp1,Oligo
+VLMC_5,587,Non-neuronal,VLMC,NA,VLMC Bnc2,VLMC
+VLMC_6,161,Non-neuronal,VLMC,NA,VLMC Bnc2,VLMC
+SMC,19,Non-neuronal,SMC,NA,SMC-Peri,SMC-Peri
+Peri,1446,Non-neuronal,Peri,NA,SMC-Peri,SMC-Peri
+Oligo Opalin_1,3949,Non-neuronal,Oligo,Oligo_1,Oligo Plp1,Oligo
+Oligo Enpp6_4,131,Non-neuronal,Oligo,Oligo_2,Oligo Plp1,Oligo
+Oligo Opalin_2,14454,Non-neuronal,Oligo,Oligo_2,Oligo Plp1,Oligo
+Oligo Opalin_3,779,Non-neuronal,Oligo,Oligo_2,Oligo Plp1,Oligo
+Oligo Opalin_4,486,Non-neuronal,Oligo,Oligo_2,Oligo Plp1,Oligo
+OPC Pdgfra,4846,Non-neuronal,OPC,OPC,OPC Pdgfra,OPC
+Sst Th_2,21,GABAergic,Sst,Pvalb_1,Sst Rbp4,Sst Stk33
+Pvalb Gpr149,734,GABAergic,Pvalb,Pvalb_1,Pvalb Gpr149,Pvalb Ntf3
+Pvalb Kank4,609,GABAergic,Pvalb,Pvalb_1,Pvalb Tac1,Pvalb Ntf3
+Pvalb Calb1_1,98,GABAergic,Pvalb,Pvalb_1,Pvalb Tac1,Pvalb Ntf3
+Pvalb Calb1_2,667,GABAergic,Pvalb,Pvalb_1,Pvalb Tac1,Pvalb Ntf3
+Pvalb Reln,1500,GABAergic,Pvalb,Pvalb_1,Pvalb Plxnc1,Pvalb Tac1
+Pvalb Il1rapl2,1475,GABAergic,Pvalb,Pvalb_1,Pvalb Plxnc1,Pvalb Tac1
+Pvalb Gabrg1,244,GABAergic,Pvalb,Pvalb_2,Pvalb Tac1,Pvalb Ntf3
+Pvalb Egfem1,205,GABAergic,Pvalb,Pvalb_2,Pvalb Tac1,Pvalb Ntf3
+Vip Sncg,81,GABAergic,Sncg,Sncg_1,Sncg Frem1,Sncg
+Vip Serpinf1_2,135,GABAergic,Vip,Sncg_1,Vip Tac2,Vip Hcls1
+Sncg Col14a1,108,GABAergic,Sncg,Sncg_2,Sncg Frem1,Sncg
+Sncg Slc17a8,97,GABAergic,Sncg,Sncg_2,Sncg Frem1,Sncg
+Sncg Calb1_1,85,GABAergic,Sncg,Sncg_3,Sncg Frem1,Sncg
+Sncg Calb1_2,37,GABAergic,Sncg,Sncg_3,Sncg Frem1,Sncg
+Sncg Npy2r,151,GABAergic,Sncg,Sncg_3,Sncg Frem1,Sncg
+Lamp5 Egln3_1,96,GABAergic,Lamp5,Sncg_4,Lamp5 Chrna7,Lamp5 Ndnf
+Sst Chodl,164,GABAergic,Sst Chodl,Sst Chodl,Sst Chodl,Sst Chodl
+Sst Myh8_2,116,GABAergic,Sst,Sst_1,Sst Scg5,Sst Myh8
+Sst Myh8_3,72,GABAergic,Sst,Sst_1,Sst Scg5,Sst Myh8
+Sst Htr1a,130,GABAergic,Sst,Sst_1,Sst Htr1a,Sst Myh8
+Sst Penk,97,GABAergic,Sst,Sst_2,Sst Scg5,Sst Myh8
+Sst Myh8_1,556,GABAergic,Sst,Sst_2,Sst Scg5,Sst Myh8
+Sst Etv1,65,GABAergic,Sst,Sst_2,Sst Kirrel3,Sst Man1a
+Sst Pvalb Etv1,71,GABAergic,Sst,Sst_3,Sst Kirrel3,Sst Man1a
+Sst Crhr2_1,322,GABAergic,Sst,Sst_3,Sst Rbp4,Sst Stk33
+Sst Hpse,498,GABAergic,Sst,Sst_3,Sst Pcdh11x,Sst Man1a
+Sst Calb2,716,GABAergic,Sst,Sst_3,Sst Pcdh11x,Sst Man1a
+Sst Pvalb Calb2,654,GABAergic,Sst,Sst_3,Sst Scg5,Sst Man1a
+Sst Pappa,16,GABAergic,Sst,Sst_3,Sst Pcdh11x,Sst Man1a
+Sst Crhr2_2,214,GABAergic,Sst,Sst_4,Sst Rbp4,Sst Stk33
+Sst C1ql3_1,189,GABAergic,Sst,Sst_5,Sst 9630002D21Rik,Sst Stk33
+Sst C1ql3_2,130,GABAergic,Sst,Sst_6,Sst 9630002D21Rik,Sst Stk33
+Sst Tac2,92,GABAergic,Sst,Sst_6,Sst 9630002D21Rik,Sst Stk33
+Sst Th_1,59,GABAergic,Sst,Sst_6,Sst 9630002D21Rik,Sst Stk33
+Sst Th_3,70,GABAergic,Sst,Sst_7,Sst Rbp4,Sst Stk33
+Vip Mybpc1_3,153,GABAergic,Vip,Vip_1,Vip Wnt5b,Vip Chat
+Vip Chat_1,561,GABAergic,Vip,Vip_1,Vip Wnt5b,Vip Chat
+Vip Chat_2,177,GABAergic,Vip,Vip_1,Vip Wnt5b,Vip Chat
+Vip Serpinf1_3,41,GABAergic,Vip,Vip_2,Vip Tac2,Vip Hcls1
+Vip Htr1f,339,GABAergic,Vip,Vip_2,Vip Tac2,Vip Hcls1
+Vip C1ql1,284,GABAergic,Vip,Vip_2,Vip Crh,Vip Lipg
+Vip Mybpc1_2,416,GABAergic,Vip,Vip_2,Vip Wnt5b,Vip Gcnt4
+Vip Serpinf1_1,40,GABAergic,Vip,Vip_3,Vip Wnt5b,Vip Hcls1
+Vip Gpc3,229,GABAergic,Vip,Vip_3,Vip Crh,Vip Lipg
+Vip Mybpc1_1,126,GABAergic,Vip,Vip_3,Vip Wnt5b,Vip Gcnt4
+Vip Igfbp6_1,185,GABAergic,Vip,Vip_4,Vip Crh,Vip Lipg
+Vip Igfbp6_2,144,GABAergic,Vip,Vip_4,Vip Crh,Vip Lipg
+VLMC_1,156,Non-neuronal,VLMC,VLMC,VLMC Lama1,VLMC
+VLMC_2,968,Non-neuronal,VLMC,VLMC,VLMC Lama1,VLMC
+VLMC_3,226,Non-neuronal,VLMC,VLMC,VLMC Bnc2,VLMC
+VLMC_4,152,Non-neuronal,VLMC,VLMC,VLMC Lama1,VLMC
+VLMC_7,79,Non-neuronal,VLMC,VLMC,VLMC Bnc2,VLMC

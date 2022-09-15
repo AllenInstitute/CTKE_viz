@@ -2,8 +2,7 @@
 Code used to generate data visualizations and text for the Cell Type Knowledge Explorer.
 
 # Overview
-This folder contains subfolders with scripts used to create all the content in the Cell Type Knowledge Explorer. These scripts are not quite
-"package-ready" at this point, but can be used to reproduce any content displayed on the current version of the CTKE. Many of these scripts may be generalizable to
+This folder contains subfolders with scripts used to create all the content in the Cell Type Knowledge Explorer. This repo does NOT provide an out-of-the-box package for plotting the data modalities described below, but the provided scripts can be used to reproduce any content displayed on the current version of the CTKE. Many of these scripts may be generalizable to
 other products/analyses, and those that are currently not in this state may be improved upon with some minimal focused effort (see individual subfolders). 
 
 # Subfolders
@@ -40,3 +39,8 @@ other products/analyses, and those that are currently not in this state may be i
 **umaps**
  - Contains scripts used to generate UMAPs highlighted by cell types
 
+# Level of Support
+We are not currently supporting this code, but simply releasing it to the community AS IS but are not able to provide any guarantees of support. The community is welcome to submit issues, but you should not expect an active response.
+
+# License
+The license for this repo is available on Github at: https://github.com/AllenInstitute/CTKE_viz/blob/main/LICENSE.txt

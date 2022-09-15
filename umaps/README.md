@@ -2,7 +2,7 @@
 
 Authors: Cindy van Velthoven, Ray Sanchez
 
-This folder contains script, "make_all_umap.R", that was adapted from Cindy's original UMAP plotting code (in "Cindy_originalcode" subfolder). The script requires
+This folder contains script, "make_all_umap.R", that was adapted from Cindy's UMAP plotting code. The script requires
 the following input files:
 
 * **standard metadata file** as described in the cluster metrics subfolder
